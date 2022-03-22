@@ -8,6 +8,7 @@ namespace GitConsole
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("My First commit");
+            Console.WriteLine("My third commit");
         }
     }
 }
