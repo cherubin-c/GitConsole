@@ -7,7 +7,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("");
+            Console.WriteLine("My First commit");
         }
     }
 }
